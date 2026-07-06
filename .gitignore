@@ -1,1 +1,4 @@
-/data/
+data/
+dev_resources/
+build/
+compile-flags.txt
